@@ -1,1 +1,3 @@
-var playlist = new Object ()
+var playlist = new Object ({
+  active child: "cruel world"
+})
